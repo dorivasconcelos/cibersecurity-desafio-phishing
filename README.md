@@ -1,4 +1,4 @@
-# Phishing para captura de senhas do Facebook
+# Phishing para captura de senhas do Instagram
 
 ### Ferramentas
 
@@ -14,8 +14,9 @@
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Site Cloner ```
 - Obtendo o endereço da máquina: ``` ip a ```
-- URL para clone: http://www.facebook.com
+- URL para clone: http://www.instagram.com
 
 ### Resultados
 
-![Alt text](./passwd.png "Optional title")
+![image](https://github.com/user-attachments/assets/54880977-9559-4a69-ba54-e5077a4fe57f)
+
